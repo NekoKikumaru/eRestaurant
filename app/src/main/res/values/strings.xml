@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">eRestaurant</string>
+
+    <string name="prompt_user">Registeration Number</string>
+    <string name="prompt_restaurant">Restaurant Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm">Confirm Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+
+    <string name="category">Menu Category</string>
+    <string name="sub_category">Menu SubCategory</string>
+    <string name="menu">Menu Items</string>
+    <string name="tables">Tables</string>
+    <string name="orders">Orders</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="users">Users</string>
+    <string name="invoice">Invoice</string>
+
+    <string name="swipe_instruction">You can swipe left and right to edit and delete items</string>
+    <string name="category_name">Category Name</string>
+    <string name="sub_category_name">SubCategory Name</string>
+    <string name="menu_name">Menu Name</string>
+    <string name="table_no">Table Number</string>
+    <string name="price">Price in MMK</string>
+    <string name="user_name">Full Name</string>
+    <string name="optional_email">Email (Optional)</string>
+    <string name="role">Role</string>
+
+    <string name="incomplete_api">The API is currently incomplete</string>
+    <string name="network_error">Check your network connection</string>
+    <string name="delete_message">Are you sure you want to delete?</string>
+    <string name="empty_order">You haven\'t added anything to order yet.</string>
+    <string name="reload">Reload</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+</resources>

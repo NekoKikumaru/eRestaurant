@@ -1,0 +1,35 @@
+<resources>
+    <dimen name="appbar_icon_margin">11dp</dimen>
+    <dimen name="appbar_icon_size">32dp</dimen>
+
+    <dimen name="fragment_auth_text_size">20sp</dimen>
+    <dimen name="fragment_auth_input_margin_top">10dp</dimen>
+
+    <dimen name="fragment_home_grid_size">180dp</dimen>
+    <dimen name="fragment_home_cardview_radius">20dp</dimen>
+    <dimen name="fragment_home_text_size">18dp</dimen>
+    <dimen name="fragment_home_cardview_margin_top">20dp</dimen>
+
+    <dimen name="dialog_text_size">30sp</dimen>
+    <dimen name="dialog_image_size">160dp</dimen>
+    <dimen name="dialog_margin">20dp</dimen>
+    <dimen name="dialog_padding">15dp</dimen>
+    <dimen name="dialog_input_margin_top">20dp</dimen>
+    <dimen name="dialog_button_margin_top">25dp</dimen>
+
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="item_divider">1dp</dimen>
+
+    <dimen name="recyclerview_padding_title_bottom">8dp</dimen>
+    <dimen name="recyclerview_padding_subtitle_bottom">10dp</dimen>
+    <dimen name="recycleritem_padding_horizontal">20dp</dimen>
+    <dimen name="recycleritem_padding_vertical">13dp</dimen>
+    <dimen name="recycleritem_title_size">18sp</dimen>
+    <dimen name="recycleritem_subtitle_size">16sp</dimen>
+    <dimen name="recycleritem_subtitle_margin_top">6sp</dimen>
+    <dimen name="recycleritem_image_size">130dp</dimen>
+
+    <dimen name="ribbon_text_size">16sp</dimen>
+    <dimen name="ribbon_padding_large">30dp</dimen>
+    <dimen name="ribbon_padding_small">10dp</dimen>
+</resources>

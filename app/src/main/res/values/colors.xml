@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+
+<!--    <color name="colorPrimary">#FFFFFF</color>-->
+<!--    <color name="colorPrimaryDark">#000000</color>-->
+<!--    <color name="colorAccent">#5F52F0</color>-->
+
+    <color name="colorPrimary">#1F45FC</color>
+    <color name="colorPrimaryDark">#4E04C9</color>
+    <color name="colorPrimaryLight">#d8f0f9</color>
+    <color name="colorCardViewBackground">#F9F9F9</color>
+
+</resources>
